@@ -1,0 +1,1 @@
+Try implement BG online map for cmangos tbc.
